@@ -5,7 +5,7 @@
 -->
 
 * 🔭 I’m currently working on Discord bots and Beat Saber mods.
-* 🌱 I’m currently learning JavaScript/TypeScript, Python and C++.
+* 🌱 I’m currently learning Java, JavaScript/TypeScript, Python and C++.
 * 📫 How to reach me:
   * Discord: rui2015#0303
 
