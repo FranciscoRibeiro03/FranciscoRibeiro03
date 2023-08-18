@@ -21,7 +21,7 @@
 
 - ❤️ Currently learning TypeScript, JavaScript, Java, Python, C and C++
 
-- 💬 You can contact me through Discord: `rui2015#0303`
+- 💬 You can contact me through Discord: `rui2015`
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
